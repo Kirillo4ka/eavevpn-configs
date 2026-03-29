@@ -1,0 +1,21 @@
+# profile-title: Black List | Mobile/Full | VLESS | EaveVPN
+# profile-update-interval: 2
+# Date/Time: 2026-03-29 16:19:31
+# Количество: 15
+# For more info and VPN-configs - visit: https://github.com/Kirillo4ka/eavevpn-configs
+
+vless://3824f134-a633-4318-9c2a-79887bf811a0@45.67.139.93:7443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=chat.deepseek.com&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=be0ce047#🇫🇷 Франция | Black List | Fast | EaveVPN | #0001
+vless://63499873-e7bb-4c2c-a22c-36b462773aa5@205.237.107.106:443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru#🇫🇷 Франция | Black List | Fast | EaveVPN | #0002
+vless://63499873-e7bb-4c2c-a22c-36b462773aa5@georg.sbrf-cdn342.ru:443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru#🇫🇷 Франция | Black List | Fast | EaveVPN | #0003
+vless://90c9c25c-df6c-4438-83d3-ef97166a9184@194.31.174.143:443?security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&fp=qq&pbk=A3PWLCRX9oeSyPvrmrwj2jUXcLo2uCwAISRBHtNE1Xw&spx=/#🇦🇲 Армения | Black List | Fast | EaveVPN | #0004
+vless://3824f134-a633-4318-9c2a-79887bf811a0@45.13.226.34:7443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=chat.deepseek.com&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=d82fb387#🇦🇲 Армения | Black List | Fast | EaveVPN | #0005
+vless://9d692b1d-7f37-4b75-a1cf-d3adc49e4bca@94.156.122.71:500?flow=xtls-rprx-vision&sni=unpkg.com&security=reality&pbk=IuBLnO8bqPfkGKv0fxezMwyjPVLDrTWnmvZ_yvNMiyA&sid=278FcEcf1aDD3b07&spx=/react-router/&fp=edge#🇦🇲 Армения | Black List | Fast | EaveVPN | #0006
+vless://4dde0df3-aa67-417c-882e-28beb3886961@78.17.16.169:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=nld.pink-world.ru&pbk=tB6tQr-pmLTdMM8DVOb9KsS27lDkAjjelbdu_Gp1SR0&sid=f27d8b541b5f48bf#🇱🇮 Лихтенштейн | Black List | Fast | EaveVPN | #0007
+vless://63499873-e7bb-4c2c-a22c-36b462773aa5@it-bridge.sbrf-cdn342.ru:443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru&fp=qq&alpn=http/1.1#🇷🇴 Румыния | Black List | Fast | EaveVPN | #0008
+vless://63499873-e7bb-4c2c-a22c-36b462773aa5@at.sbrf-cdn342.ru:443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru#🇦🇲 Армения | Black List | Fast | EaveVPN | #0009
+vless://63499873-e7bb-4c2c-a22c-36b462773aa5@uae.sbrf-cdn342.ru:443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru&fp=random&alpn=http/1.1#🇦🇲 Армения | Black List | Fast | EaveVPN | #0010
+vless://54cc54b2-77ad-4541-b7b6-7ac2053b60d4@cluster-usa.zmeet.video:443?sni=cluster-usa.zmeet.video&security=tls&fp=safari#🇦🇲 Армения | Black List | Fast | EaveVPN | #0011
+vless://4a8ad4a4-1936-4556-9d6a-aa438a05233a@netnode.filvless.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=netnode.filvless.ru&fp=chrome&security=reality&pbk=6kOe0kYl4qx9V5aDTB18lYZqQtcjPx412yWMOJ8dgUg&sid=92d58c0f0041d062&packetEncoding=xudp#🇦🇲 Армения | Black List | Fast | EaveVPN | #0012
+vless://3824f134-a633-4318-9c2a-79887bf811a0@162.217.249.94:7443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=chat.deepseek.com&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=be0ce047#🇦🇲 Армения | Black List | Fast | EaveVPN | #0013
+vless://c01733dd-3e58-4da9-910b-cdd4560295bc@193.202.10.135:443?encryption=none&fp=chrome&pbk=Duxwa0WD9RhAy4EsGdWgo2ALlOUWGfZ2KCVLKEP_214&security=reality&serviceName=google.pubsub.v1.Subscriber&sid=8b3e5f2a7d4c1069&sni=www.bing.com&type=grpc#🇮🇹 Италия | Black List | Fast | EaveVPN | #0014
+vless://3824f134-a633-4318-9c2a-79887bf811a0@152.53.104.33:7443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=chat.deepseek.com&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=d82fb387#🇨🇦 Канада | Black List | Fast | EaveVPN | #0015
